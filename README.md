@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 沈执の小狐狸打卡站（Vue 3 + Vite + Tailwind + Pinia）
 
 ## 运行方式
@@ -32,3 +33,7 @@ npm run preview
 - 音乐按钮：接入 `<audio>` + playlist
 - 日历详情：做成弹窗（目前用 toast 显示）
 - 统计图：换成 ECharts/Chart.js（现在是轻量版）
+=======
+# little-fox-station
+私有的打卡网站，专属我和沈执
+>>>>>>> 8c568937ebe24b83eb456ecc916670b5324674d8
